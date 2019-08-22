@@ -16,7 +16,7 @@ Before we started the project we were given this brief, we were told that our ap
 * **Be deployed online** and accessible to the public.
 ---
 # Software Engineering Immersive: Project 3
-This is my third project during the General Assembly Software Engineering Immersive course. The project was made in collaboration with Tom Tidswell (https://github.com/tomtidswell) and Sim Brar (https://github.com/simbrar). In total we had eight days to complete this project and used collaborative tools such as Slack and Trello to work together.
+This is my third project during the General Assembly Software Engineering Immersive course. The project was made in collaboration with Tom Tidswell (https://github.com/tomtidswell) and Sim Brar (https://github.com/simbrar1). In total we had eight days to complete this project and used collaborative tools such as Slack and Trello to work together.
 
 ---
 
