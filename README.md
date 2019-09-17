@@ -51,7 +51,7 @@ Without being logged in, users can only navigate events by either viewing them a
 
 I contributed towards building the back-end, creating the information for the events to be seeded. I also found the API we used to generate random users. In React, I created the forms we used throughout the app using the React Select package for the conditional dropdown component. This was a real challenge as I was not used to building a form input in such a way; the options for the inputs had be written as an array, with each option corresponding to a value which was changed using a handleChange function, like so: 
 
-``` 
+  ```
   const EventsForm = ({ data, handleChange, handleCatChange, handleSubCatChange, handleAttChange, handleSubmit, buttonText }) => {
 
   const category = [
@@ -92,7 +92,8 @@ I contributed towards building the back-end, creating the information for the ev
   let filteredOptions = null
 
   if (data.category)
-    filteredOptions = subcategory.filter(o => o.link === data.category) ```
+    filteredOptions = subcategory.filter(o => o.link === data.category) 
+  ```
     
 
 I was also responsible for most of the styling of the app and decided on a simple, modern palette of black, white and pink. I mapped each event's main information onto cards on the index page and gave each card a slight box shadow in order to improve readability and make it look as if the cards had been placed on top of the page. I made the filter option a sticky element so that it moves along vertically when the user scrolls past the bottom of the page. I also installed a burger menu package and implemented it with the help of my group.
